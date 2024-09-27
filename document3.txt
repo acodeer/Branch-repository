@@ -1,1 +1,1 @@
-printf(HELLO world);
+printf(HELLO dog);
